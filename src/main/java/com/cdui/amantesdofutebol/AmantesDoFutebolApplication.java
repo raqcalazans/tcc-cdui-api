@@ -1,13 +1,13 @@
-package com.cdui.brasileirao_api;
+package com.cdui.amantesdofutebol;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BrasileiraoApiApplication {
+public class AmantesDoFutebolApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BrasileiraoApiApplication.class, args);
+		SpringApplication.run(AmantesDoFutebolApplication.class, args);
 	}
 
 }
